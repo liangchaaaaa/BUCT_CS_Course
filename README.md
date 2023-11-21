@@ -1,2 +1,2 @@
 # BUCT_CS_Course
-Course materials for some elective courses
+Some course materials for the Computer Science and Technology program at Beijing University of Chemical Technology
